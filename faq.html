@@ -1,0 +1,184 @@
+<html>
+<head>
+<style>
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
+
+* {
+  font-family: Lato, sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px 0;
+}
+
+.wrapper {
+  width: 60%;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.container {
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px 0 rgb(0,0,0,0.25);
+  margin: 20px 0;
+}
+
+.question {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 20px 80px 20px 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.question::after {
+  content: "\002B";
+  font-size: 2.2rem;
+  position: absolute;
+  right: 20px;
+  transition: 0.2s;
+}
+
+.question.active::after {
+  transform: rotate(45deg);
+}
+
+.answercont {
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.answer {
+  padding: 0 20px 20px;
+  line-height: 1.5rem;
+}
+
+.question.active + .answercont {
+}
+
+@media screen and (max-width: 790px){
+  html {
+    font-size: 14px;
+  }
+  .wrapper {
+  width: 80%;
+}
+}
+</style>
+
+</head>
+<body>
+<h1>FAQs</h1>
+
+<div class="wrapper">
+
+  <div class="container">
+    <div class="question">
+     Who is Rahul Kuzur?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+       Rahul Kuzur is a developer, tech creator, and founder of multiple digital projects like Kuzur OS, Kuzur Coin, and Kuzur Chat. He is also active in the open-source and cybersecurity space<br><br>
+
+        <a href="who-is-rahul-kuzur.html">more</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="question">
+      What is kuzur.xyz?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+       This is the official portfolio and landing page of Rahul Kuzur. It links to projects, social profiles, and the blog hosted at <a href="https://blog.kuzur.xyz" target="_blank">blog.kuzur.xyz</a>.
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="question">
+     What kind of projects does Rahul work on?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+       Rahul builds open-source operating systems, chat applications, LoRa-based messaging tools, WebRTC apps, and cryptocurrency tools like Kuzur Coin.
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="question">
+    How can I contact Rahul?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+       You can reach him through any of his social media platforms listed at the bottom of this page, or email him at <strong>contact@kuzur.xyz</strong>.
+      </div>
+    </div>
+  </div>
+
+<div class="container">
+    <div class="question">
+     What is blog.kuzur.xyz?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        It’s the official blog where Rahul publishes updates, trending topics, and insights about tech, cybersecurity, and his projects.
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="question">
+      Can I collaborate with Rahul?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        Yes! Rahul is open to collaborations. You can send a message via Twitter or GitHub, or drop an email to initiate a conversation.
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+
+<script>
+let question = document.querySelectorAll(".question");
+
+question.forEach(question => {
+  question.addEventListener("click", event => {
+    const active = document.querySelector(".question.active");
+    if(active && active !== question ) {
+      active.classList.toggle("active");
+      active.nextElementSibling.style.maxHeight = 0;
+    }
+    question.classList.toggle("active");
+    const answer = question.nextElementSibling;
+    if(question.classList.contains("active")){
+      answer.style.maxHeight = answer.scrollHeight + "px";
+    } else {
+      answer.style.maxHeight = 0;
+    }
+  })
+})
+
+</script>
+</body>
+</html>
