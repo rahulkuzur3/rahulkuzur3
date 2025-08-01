@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kuzur.xyz/sitemap.xml
+Sitemap: https://kuzur.xyz/sitemap_index.xml
