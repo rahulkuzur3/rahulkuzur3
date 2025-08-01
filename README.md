@@ -77,7 +77,7 @@ I write about tech, open-source, and development insights:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahulkuzur/)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat-square)](https://twitter.com/rahulkuzur)
-[![Facebook](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat-square)](https://facebook.com/rahul.kuzur)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=twitter&style=flat-square)](https://facebook.com/rahul.kuzur)
 ---
 
 ## 💡 Fun Facts
