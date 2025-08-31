@@ -37,16 +37,9 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
-`JavaScript` · `Python` 
-
-**Web & Backend:**  
-`React` · `Node.js` · `HTML/CSS`
-
-**Databases & Infra:**  
-`Firebase` · `Git` · `CI/CD`
-
+· `Python` 
 **Operating Systems:**  
-`Debian` · `Ubuntu`
+`all`
 
 ---
 
