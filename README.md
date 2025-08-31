@@ -10,7 +10,7 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 
 ---
 
-## 🚀 Latest Project: [Python file server ](https://github.com/rahulkuzur3/python_file_server)
+## 🚀 Latest Project: [Kuzur programming language](https://github.com/rahulkuzur3/kuzur-Programming-Language)
 
 ### 🚀 Features
 
