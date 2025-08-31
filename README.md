@@ -37,7 +37,8 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
-· `Python` 
+`Python` 
+
 **Operating Systems:**  
 `all`
 
