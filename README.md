@@ -12,20 +12,24 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 
 ## 🚀 Latest Project: [Kuzur programming language](https://github.com/rahulkuzur3/kuzur-Programming-Language)
 
-### 🚀 Features
+## 🚀 Features
 
-- 📁 Serves files from a local `files/` folder
-- 💻 Clean and responsive HTML/CSS interface
-- 🔄 One-click server restart via web UI
-- ⚙️ Built with Python standard libraries (no external dependencies)
-- 🧠 Automatically lists files in the UI with download links
-
+-  Variables: numbers, strings, booleans
+- Conditional statements: `if`, `elif`, `else` 🔄
+- Loops: `while`, `for`, `do-while` 🔁
+- Control: `break`, `continue` ⛔✅
+- Functions: `func`, `return` 🔹
+- Blocks with `{ ... }` like C/JavaScript 
+- Built-ins: `print()`, `input()`, `len()`, `int()`, `str()`
+- Fully CLI-based, lightweight & lightning fast ⚡
+- Cross-platform: Windows & Linux standalone executables
+- Single-line comments with `//`
 ---
 
 ## 🌱 Currently Learning
 
-- ⚙️ Advanced WebRTC & peer-to-peer protocols  
-- ☁️ Cloud infrastructure, CI/CD, and DevOps  
+- ⚙️ python  
+- ☁️ cloude vps working system
 - ⚡ Scalable, real-time system architecture
 
 ---
