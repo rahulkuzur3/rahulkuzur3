@@ -6,42 +6,40 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://kuzur.xyz/</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/p.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/p.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/contact.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/contact.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/faq.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/faq.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/privacy_policy.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/privacy_policy.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/who-is-rahul-kuzur.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/who-is-rahul-kuzur.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://kuzur.xyz/rahul-kuzur-projects.html</loc>
-  <lastmod>2025-08-01T06:21:56+00:00</lastmod>
+  <loc>https://kuzur.uk/rahul-kuzur-projects.html</loc>
+  <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-
 
 </urlset>
