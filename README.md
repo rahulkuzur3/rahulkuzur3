@@ -40,7 +40,7 @@ Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
-`Python` 
+`Python` % 
 
 **Operating Systems:**  
 `all`
@@ -59,7 +59,7 @@ Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder
 
 ## 🏆 Achievements
 
-- Build  **KshRE** — Private, Cross-Platform File & Folder Sharing Hub
+- Build  **KShare** — Private, Cross-Platform File & Folder Sharing Hub
 - Built **Chatrs** — a powerful flutter app for SMS chat!  
 - create  **Kuzur Programming Language** — a Python Created Programming Language
 
