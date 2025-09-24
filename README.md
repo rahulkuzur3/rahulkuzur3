@@ -10,7 +10,7 @@ Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder
 
 ---
 
-## 🚀 Latest Project: [KShare](https://github.com/rahulkuzur3/kuzur-Programming-Language)
+## 🚀 Latest Project: [KShare](https://github.com/rahulkuzur3/kshare)
 
 ## 🚀 Features
 
