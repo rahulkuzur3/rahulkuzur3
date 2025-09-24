@@ -6,24 +6,27 @@
 ![Followers](https://img.shields.io/github/followers/rahulkuzur?label=Follow&style=social)
 
 Welcome to my GitHub profile! I'm passionate about software development, Linux, open-source contributions, and building scalable applications.  
-Currently, I’m developing **ChatApp** — a powerful web-based platform for video, audio, and SMS chat!
+Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder Sharing Hub
 
 ---
 
-## 🚀 Latest Project: [Kuzur programming language](https://github.com/rahulkuzur3/kuzur-Programming-Language)
+## 🚀 Latest Project: [KShare](https://github.com/rahulkuzur3/kuzur-Programming-Language)
 
 ## 🚀 Features
 
--  Variables: numbers, strings, booleans
-- Conditional statements: `if`, `elif`, `else` 🔄
-- Loops: `while`, `for`, `do-while` 🔁
-- Control: `break`, `continue` ⛔✅
-- Functions: `func`, `return` 🔹
-- Blocks with `{ ... }` like C/JavaScript 
-- Built-ins: `print()`, `input()`, `len()`, `int()`, `str()`
-- Fully CLI-based, lightweight & lightning fast ⚡
-- Cross-platform: Windows & Linux standalone executables
-- Single-line comments with `//`
+
+*   🖥 *Truly Cross-Platform:* A single, unified experience. Share files between a Windows PC, a MacBook, a Linux machine, and an Android phone without any compatibility issues.
+
+*   🌐 *100% Offline & Local:* Operates entirely on your local Wi-Fi or a personal hotspot. Your data never leaves your network, guaranteeing privacy and maximum transfer speed.
+
+*   🔮 *Zero-Configuration Discovery:* No more fumbling with IP addresses. KShare uses the *Zeroconf (Bonjour/Avahi)* protocol to automatically discover other devices on the network. They just appear in your list.
+
+*   🔒 *Peace of Mind with AES-256 Encryption:* Every file and folder is protected with industry-standard *AES-256 (CBC mode)* end-to-end encryption. A unique password set for each transfer ensures only the intended recipient can access the data.
+
+*   📂 *Seamless Folder Transfers:* Select an entire folder and KShare will transparently compress it, send it, and decompress it on the other side, perfectly preserving the original directory structure.
+
+*   🚀 *Lightweight and Fast:* Built with efficiency in mind. The application is lightweight, and the direct peer-to-peer connection maximizes your network's bandwidth for rapid transfers of large files.
+
 ---
 
 ## 🌱 Currently Learning
@@ -56,9 +59,9 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 
 ## 🏆 Achievements
 
-- 🐧 Contributed to **Debian** — fixed bugs and enhanced system stability  
-- 💻 Built **KuzurOS** — a fast, minimal Debian-based OS  
-- 🌍 Participated in **Hacktoberfest 2024** — contributed to multiple open-source projects
+- Build  **KshRE** — Private, Cross-Platform File & Folder Sharing Hub
+- Built **Chatrs** — a powerful flutter app for SMS chat!  
+- create  **Kuzur Programming Language** — a Python Created Programming Language
 
 ---
 
