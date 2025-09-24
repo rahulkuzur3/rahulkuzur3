@@ -53,7 +53,7 @@ Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkuzur&layout=compact&theme=radical)
+- python
 
 ---
 
