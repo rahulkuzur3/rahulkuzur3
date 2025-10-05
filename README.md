@@ -10,23 +10,25 @@ Currently, I’m developing **KShare** — Private, Cross-Platform File & Folder
 
 ---
 
-## 🚀 Latest Project: [KShare](https://github.com/rahulkuzur3/kshare)
+## 🚀 Latest Project: [KV Player](https://github.com/rahulkuzur3/KVPlayer)
 
 ## 🚀 Features
 
 
-*   🖥 *Truly Cross-Platform:* A single, unified experience. Share files between a Windows PC, a MacBook, a Linux machine, and an Android phone without any compatibility issues.
-
-*   🌐 *100% Offline & Local:* Operates entirely on your local Wi-Fi or a personal hotspot. Your data never leaves your network, guaranteeing privacy and maximum transfer speed.
-
-*   🔮 *Zero-Configuration Discovery:* No more fumbling with IP addresses. KShare uses the *Zeroconf (Bonjour/Avahi)* protocol to automatically discover other devices on the network. They just appear in your list.
-
-*   🔒 *Peace of Mind with AES-256 Encryption:* Every file and folder is protected with industry-standard *AES-256 (CBC mode)* end-to-end encryption. A unique password set for each transfer ensures only the intended recipient can access the data.
-
-*   📂 *Seamless Folder Transfers:* Select an entire folder and KShare will transparently compress it, send it, and decompress it on the other side, perfectly preserving the original directory structure.
-
-*   🚀 *Lightweight and Fast:* Built with efficiency in mind. The application is lightweight, and the direct peer-to-peer connection maximizes your network's bandwidth for rapid transfers of large files.
-
+*   **Sleek, Minimalist Interface:** A modern, dark-themed UI that gets out of your way. Controls are auto-hiding and appear only when needed.
+*   **High-Performance Playback:** Utilizes **FFmpeg** via FFpyplayer with hardware acceleration (`hw_accel`) and fast seeking (`fastseek`) enabled for smooth playback and instantaneous skipping.
+*   **Truly Cross-Platform:** Runs natively on Windows, macOS, and Linux from a single codebase.
+*   **Multi-Audio Track Support:** Automatically detects and allows you to switch between multiple audio tracks in your video files (e.g., different languages, commentaries).
+*   **Full Playback Control:**
+    *   Play / Pause
+    *   Responsive Seek Bar
+    *   10-Second Skip Forward/Backward
+    *   Volume Control Slider & Mute
+    *   Fullscreen Mode
+*   **Versatile File Handling:**
+    *   Drag-and-drop files directly onto the player.
+    *   "Open File" dialog available on both the welcome screen and during playback.
+*   **Standalone Executable:** Comes with a pre-configured `KVPlayer.spec` file to easily package the application into a single executable for all platforms using 
 ---
 
 ## 🌱 Currently Learning
