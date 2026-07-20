@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Rahul Kuzur!
-![me](https://kuzur.uk/images/profile.webp)
-
 ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square)
 ![Developer](https://img.shields.io/badge/Developer-%F0%9F%91%8B-blue?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu-red?style=flat-square)
