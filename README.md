@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rahul Kuzur!
-![me](https://avatars.githubusercontent.com/u/191958267?v=4)
+![me](https://kuzur.uk/images/profile.webp)
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square)
 ![Developer](https://img.shields.io/badge/Developer-%F0%9F%91%8B-blue?style=flat-square)
